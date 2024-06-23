@@ -1,6 +1,6 @@
-# sub_tasks_for_software
+# Food Delivery App 
 
-A new Flutter project.
+A new Flutter project using Cubit state manegment and Sqlite Database
 
 ## Getting Started
 
